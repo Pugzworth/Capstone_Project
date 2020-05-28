@@ -22,13 +22,13 @@ Ion channels are pores along proteins that are essential in various biological p
 Xgboost and Stumpy? (include sources)
 
 # Scores and Conclusion
-F1 score using xgboost:
-F1 score using stumpy: 
+Score from baseline model: 61.4%
+F1 Score from XGBoost: 
 
 # Future Work
-Thisi is will most likely be the end of this project, but I do plan on pursuing other biological applicable data science projects. 
+This is will most likely be the end of this project, but I do plan on pursuing other biological applicable data science projects. However, this project could be extended by employing different models and more in-depth time series analysis. 
 
 # Contact Info:
-Github: 
-LinkedIn:
+Github: github.com/Pugzworth
+LinkedIn:https://www.linkedin.com/in/lenaya-flowers-b73758103/
 
