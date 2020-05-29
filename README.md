@@ -13,7 +13,7 @@ This capstone project a competition from Kaggle. I downloaded the data from Kagg
 
 # Method
 The data science method as outlined in ion.ipynb is download the data, explore the data, build baseline model, remove noise from signal data for further models, model the data and predict the number of open channels. Finally, calculate the F1 score of the predicted open channels. The F1 score is calculated using precsion (P) and recall-sensitivity (R) and defined as follows:
-                                         F1 Score= \frac{2*Precision*Recall}{Precision+Recall}
+                                        * F1 Score= 2*Precision*Recall/Precision+Recall
 
 # Importance of Ion Channels
 Ion channels are pores along proteins that are essential in various biological processes. The understanding of ion channels is important biotech applications, neuroscience, cardiac physiology, and neural communication such as encode learning and memory. The following notebook offers an excellent visual overview of ion channels: https://www.kaggle.com/mobassir/understanding-ion-switching-with-modeling?scriptVersionId=32647837
@@ -22,13 +22,16 @@ Ion channels are pores along proteins that are essential in various biological p
 Xgboost and Stumpy? (include sources)
 
 # Scores and Conclusion
-Score from baseline model: 61.4%
-F1 Score from XGBoost: 
+* Score from baseline model: 61.4%
+* Score from XGBoost: 64%
+
+# Presentation
+The presentation for the project is ion_channel.pdf
 
 # Future Work
 This is will most likely be the end of this project, but I do plan on pursuing other biological applicable data science projects. However, this project could be extended by employing different models and more in-depth time series analysis. 
 
 # Contact Info:
-Github: github.com/Pugzworth
-LinkedIn:https://www.linkedin.com/in/lenaya-flowers-b73758103/
+* Github: github.com/Pugzworth
+* LinkedIn:https://www.linkedin.com/in/lenaya-flowers-b73758103/
 
